@@ -1,1 +1,1 @@
-https://github.com/TigerRobocop/TigerRobocop.github.io.git
+https://tigerrobocop.github.io/
